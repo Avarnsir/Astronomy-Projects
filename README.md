@@ -7,7 +7,7 @@ This repository contains my astrophysics research projects, focusing on **exopla
 | Project | Branch | Status | Key Tools |  
 |---------|--------|--------|-----------|  
 | [TESS Exoplanet Detection](https://github.com/Avarnsir/Astrophysics-Portfolio/tree/exoplanet-tess-analysis) | `exoplanet-tess-analysis` | 🟡 On Hold | Python, LightKurve, AstroPy |  
-| [ISS Tracking Bot Core](https://github.com/Avarnsir/Astrophysics-Portfolio/tree/gaia-kinematics-mapping) | `iss-track-bot` | 🟢 Active | Requests, Json |  
+| [ISS Tracking Bot Core](https://github.com/Avarnsir/Astrophysics-Portfolio/tree/gaia-kinematics-mapping) | `astronomy_automation` | 🟢 Active | Requests, Json |  
 
 
 ## 📂 Repository Structure
