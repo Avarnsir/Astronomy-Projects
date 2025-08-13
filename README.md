@@ -6,7 +6,7 @@ This repository contains my astrophysics research projects, focusing on **exopla
 ## 🚀 Projects  
 | Project | Branch | Status | Key Tools |  
 |---------|--------|--------|-----------|  
-| [TESS Exoplanet Detection](https://github.com/Avarnsir/Astrophysics-Portfolio/tree/exoplanet-tess-analysis) | `exoplanet-tess-analysis` | 🟢 Active | Python, LightKurve, AstroPy |  
+| [TESS Exoplanet Detection](https://github.com/Avarnsir/Astronomy-Projects/tree/exoplanet-tess-analysis) | `exoplanet-tess-analysis` | 🟢 Active | Python, LightKurve, AstroPy |  
 | [Gaia DR3 Kinematics](https://github.com/Avarnsir/Astrophysics-Portfolio/tree/gaia-kinematics-mapping) | `gaia-kinematics-mapping` | 🟢 Active | Python, Astroquery, Pandas |  
 
 ## 📂 Repository Structure
