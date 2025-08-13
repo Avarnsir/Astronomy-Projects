@@ -13,7 +13,6 @@ This repository contains my astrophysics research projects, focusing on **exopla
 ## 📂 Repository Structure
 /Astrophysics-Portfolio
 |
-
 ├── .github/ # GitHub workflows (optional)
 ├── data/ # Links to datasets (never store large files here!)
 ├── LICENSE # MIT/BSD (choose an open license)
